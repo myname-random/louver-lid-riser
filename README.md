@@ -38,24 +38,24 @@ There are few deliberate settings in the 3MF that you will want to preserve as y
 
 The following are the defaults for all objects.
 
-Wall Generator: Arachne 
-Walls Print Order: Inner/Outer/Inner
-Walls: 3
-Infill Density: 10
-Infill Pattern: Gyroid
-Brim Type: No-brim
+* Wall Generator: Arachne 
+* Walls Print Order: Inner/Outer/Inner
+* Walls: 3
+* Infill Density: 10
+* Infill Pattern: Gyroid
+* Brim Type: No-brim
 
 #### Stiles & Racks
 
 For all of the long diagonal pieces, they are already rotated 45, so we do not want the infill patterns to rotate.
 
-Sparse infill direction: 0
-Solid infill direction: 0
+* Sparse infill direction: 0
+* Solid infill direction: 0
 
 For just the upper stiles (the four diagonal pieces on the first plate) we need to do a little bit denser. If you are printing in a material that is already fairly rigid (PLA or ABS/ASA) then you may be able to skip these. They help for PETG which is more flexible.
 
-Walls: 4
-Infill Density: 25%
+* Walls: 4
+* Infill Density: 25%
 
 # Assembly
 
