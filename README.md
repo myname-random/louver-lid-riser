@@ -76,25 +76,24 @@ Before starting, give all the pieces a good look.  Ensure any strings or zits on
 
 The large pieces that printed on their corners are the bottom stiles. Assembly starts with these parts. Repeat these steps for the two front and two side pieces.
 
-1. Hold the stile with the cutout for the rack to your left.<br/> ![The bottom stile channel with the cutout on the left hand side](docs/img/stile_topdown.jpg)
-2. Place the rack into the channel with the gear teeth pointing right.<br/> ![The bottom stile channel with the rack placed but not aligned](docs/img/stile_rack_incorrect.jpg)
-3. Slide the rack as far towards you as possible while keeping the slider in the cutout.<br/> ![The bottom stile channel with the rack placed and aligned](docs/img/stile_rack_correct.jpg)
+1. Hold the stile with the cutout for the rack to your left. Place the rack into the channel with the gear teeth pointing right.<br/> ![The bottom stile channel with the rack placed but not aligned](docs/img/stile_rack_incorrect.jpg)
+2. Slide the rack as far towards you as possible while keeping the slider in the cutout.<br/> ![The bottom stile channel with the rack placed and aligned](docs/img/stile_rack_correct.jpg)
 
-[!NOTE]
-If you printed the blank variant, you'll wnat to position the rack so that the top end of the rack is at the edge of the top gear opening.
+> [!NOTE]
+> If you printed the blank variant, you'll wnat to position the rack so that the top end of the rack is at the edge of the top gear opening.
 
-4. Hold the rack in position. Insert a gear into each of the gear slots. The peg on top of the geat should be close to perpendicular with the rack.
+3. Hold the rack in position. Insert a gear into each of the gear slots. The peg on top of the geat should be close to perpendicular with the rack.
 	- Good<br/> ![A gear correctly angled compared to the rack during installation](docs/img/stile_gear_placement.jpg)
-	- Bad<br/> 1[A gear incorrectly angled compared to the rack during installation](docs/img/stile_gear_incorrect_placement.jpg)
-5. Ensure all the gears are aligned the same. The gears can be off perpendicular by one tooth either way, but if so, they should all be off the same amount. If one is angled up and another is a little angled down, it will not work.
+	- Bad<br/> ![A gear incorrectly angled compared to the rack during installation](docs/img/stile_gear_incorrect_placement.jpg)
+4. Ensure all the gears are aligned the same. The gears can be off perpendicular by one tooth either way, but if so, they should all be off the same amount. If one is angled up and another is a little angled down, it will not work.
 	- Bad<br/> ![A gear incorrectly angled compared to the other gears during installation](docs/img/stile_gear_incorrect_alignment.jpg)
-6. Once you have placed all the gears into the stile, carefully slide the rack back and forth. You may experience some grinding, but it should flow smoothly after moving it back and forth a few times. If not, look for what might be preventing the motion such as a uncleared zits or an imperfection in the printed gear teeth.
+5. Once you have placed all the gears into the stile, carefully slide the rack back and forth. You may experience some grinding, but it should flow smoothly after moving it back and forth a few times. If not, look for what might be preventing the motion such as a uncleared zits or an imperfection in the printed gear teeth.
 
-[!NOTE]
-Resolve any issues before moving forward. If it doesn't work now, its not going to work later.
+> [!NOTE]
+> Resolve any issues before moving forward. If it doesn't work now, its not going to work later.
 
-7. Take the corresponding stile lid and carefully place it over the top of the stile. The gear pegs should line up with the holes on the lid. Once it is seated over the pegs, press down to lock the dovetails into place. Once complete, the top of the stile should align cleanly.
-8. Slide the rack back and forth a few times to ensure nothing from the lid is impacting the gears or the rack.
+6. Take the corresponding stile lid and carefully place it over the top of the stile. The gear pegs should line up with the holes on the lid. Once it is seated over the pegs, press down to lock the dovetails into place. Once complete, the top of the stile should align cleanly.
+7. Slide the rack back and forth a few times to ensure nothing from the lid is impacting the gears or the rack.
 
 ### Louvers
 
@@ -104,8 +103,8 @@ Repeat for each of the louvers on the stile. Once complete, slide the rack back 
 
 ### Corners
 
-[!NOTE]
-All three components of the corner are identical. There is no variation for left or right, front or back.
+> [!NOTE]
+> All three components of the corner are identical. There is no variation for left or right, front or back.
 
 1. Take an assembled front bottom stile with its louvers attached and place it so the rack lever is facing out.
 2. Take a side bottom stile and align the corners.
@@ -113,8 +112,12 @@ All three components of the corner are identical. There is no variation for left
 4. Repeat with the other two stiles.
 5. Align the two sets to form a rectangle and attach the other two corner bases.
 
-[!TIP]
-If the stiles are loose then they may have warped when printing or cooling. If the rack and gears still operate smoothly and the bottom stile lid sits flush, then you can continue.<br/>To correct the looseness, the easiest remedy is to print a small shim you can use to fill the gap so you don't waste the part you've printed. This happened to me twice because of the edges did not get as much heat in the printer and shrunk a little.<br/>Add a plate to the model in the slicer, and then Add Testing Primitive -> Cube. Select the Cube and open the Scale tool. Uncheck "Uniform scale". Change the size to X: 12 Y: 6 Z: 0.6.  Adjust the Z value to the difference between the printed size of the stile and the printed size of the corner cutout it goes into.  Alternatively, just print a couple different heights and see which one works. You can wedge it in with a fingernail or a bed scraper like a real shim, or actually glue it to the end of the stile.
+> [!TIP]
+> If the stiles are loose then they may have warped when printing or cooling. If the rack and gears still operate smoothly and the bottom stile lid sits flush, then you can continue.
+> 
+> To correct the looseness, the easiest remedy is to print a small shim you can use to fill the gap so you don't waste the part you've printed. This happened to me twice because of the edges did not get as much heat in the printer and shrunk a little.
+> 
+> Add a plate to the model in the slicer, and then Add Testing Primitive -> Cube. Select the Cube and open the Scale tool. Uncheck "Uniform scale". Change the size to X: 12 Y: 6 Z: 0.6.  Adjust the Z value to the difference between the printed size of the stile and the printed size of the corner cutout it goes into.  Alternatively, just print a couple different heights and see which one works. You can wedge it in with a fingernail or a bed scraper like a real shim, or actually glue it to the end of the stile.
 
 ### Padding Panels
 
@@ -147,7 +150,6 @@ If its assembled and working, but does not actually fit in the space for a lid o
 This model is currently sized for the K2 Plus. If you have another K series printer, or another printer with a similar lid, I would love to include it here. If you can take the following measurements from your printer, I can add it to the list.
 
 * Lid Lip - Measure the distance of the ledge the lid sits on
-
 * Lid Width - Measure the distance across the lid from side to side
 * Lid Depth - Measure the distance across the lid from front to back
 * Lid Height - Measure the thickness of the lid
